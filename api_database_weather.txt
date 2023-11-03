@@ -1,0 +1,1 @@
+api weather databse: https://archive-api.open-meteo.com/v1/archive?latitude=-22.846597372875394&longitude=-42.63389168107096&start_date=2022-01-01&end_date=2022-12-31&hourly=rain,windspeed_10m,windspeed_100m,winddirection_10m,winddirection_100m,windgusts_10m&daily=windspeed_10m_max,windgusts_10m_max,winddirection_10m_dominant&models=best_match
